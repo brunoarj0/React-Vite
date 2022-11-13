@@ -1,5 +1,7 @@
 import './styles.css'
 
+//testando
+
 export function Card(props){
     return(
         <div className="card">
